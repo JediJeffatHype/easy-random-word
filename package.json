@@ -1,0 +1,20 @@
+{
+  "name": "easy-random-words",
+  "version": "1.0.0",
+  "description": "A package that makes it so you can get random words easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JediJeffatHype",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JediJeffatHype/easy-random-word.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JediJeffatHype/easy-random-word/issues"
+  },
+  "homepage": "https://github.com/JediJeffatHype/easy-random-word#readme"
+}
