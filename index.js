@@ -10,17 +10,17 @@ class Random {
 exports.randomNoun = () => {
 
     var rand = nouns[(Math.random() * nouns.length) | 0]
-    console.log(rand)
+    
 }
 
 exports.randomAdjective = () => {
     var rand = adjectives[(Math.random() * adjectives.length) | 0]
-    console.log(rand)
+    
 }
 
 exports.randomVerb = () => {
     var rand = verbs[(Math.random() * verbs.length) | 0]
-    console.log(rand)
+    
 }
 
 
